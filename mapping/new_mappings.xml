@@ -1,0 +1,621 @@
+<?xml version='1.0' encoding='utf8'?>
+<map>
+    <concept>
+        <LP>LP6994-0</LP>
+        <snomedId>119371008</snomedId>
+        <name>Specimen from abscess (specimen)</name>
+        <LOINCSystem>Abscess</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP33443-0</LP>
+        <snomedId>309141004</snomedId>
+        <name>Adrenal gland sample (specimen)</name>
+        <LOINCSystem>Adrenal gland</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP34750-7</LP>
+        <snomedId>446302006</snomedId>
+        <name>Air sample (specimen)</name>
+        <LOINCSystem>Air</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7006-2</LP>
+        <snomedId>119392008</snomedId>
+        <name>Specimen from anus (specimen)</name>
+        <LOINCSystem>Anal</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7051-8</LP>
+        <snomedId>119341000</snomedId>
+        <name>Bile specimen (specimen)</name>
+        <LOINCSystem>Bil fld</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP29280-2</LP>
+        <snomedId>258587000</snomedId>
+        <name>Buffy coat (specimen)</name>
+        <LOINCSystem>Bld.buffy coat</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP183539-8</LP>
+        <snomedId>119303007</snomedId>
+        <name>Microbial isolate specimen (specimen)</name>
+        <LOINCSystem>Bld.pos growth</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7071-6</LP>
+        <snomedId>119298005</snomedId>
+        <name>Mixed venous blood specimen (specimen)</name>
+        <LOINCSystem>BldMV</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7072-4</LP>
+        <snomedId>122551003</snomedId>
+        <name>Peripheral blood specimen (specimen)</name>
+        <LOINCSystem>BldP</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP29830-4</LP>
+        <snomedId>122560006</snomedId>
+        <name>Blood specimen from blood donor (specimen)</name>
+        <LOINCSystem>Bld^Donor</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP29294-3</LP>
+        <snomedId>122559001</snomedId>
+        <name>Blood specimen from control (specimen)</name>
+        <LOINCSystem>Bld^control</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP29831-2</LP>
+        <snomedId>122562003</snomedId>
+        <name>Blood specimen from newborn (specimen)</name>
+        <LOINCSystem>Bld^newborn</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP29987-2</LP>
+        <snomedId>32457005</snomedId>
+        <name>Body fluid (substance)</name>
+        <LOINCSystem>Body fld^fetus</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP29159-8</LP>
+        <snomedId>430268003</snomedId>
+        <name>Specimen from bone (specimen)</name>
+        <LOINCSystem>Bone</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP33671-6</LP>
+        <snomedId>119359002</snomedId>
+        <name>Bone marrow specimen (specimen)</name>
+        <LOINCSystem>Bone marrow</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7084-9</LP>
+        <snomedId>119398007</snomedId>
+        <name>Specimen from brain (specimen)</name>
+        <LOINCSystem>Brain</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP29849-4</LP>
+        <snomedId>127456000</snomedId>
+        <name>Specimen from breast (specimen)</name>
+        <LOINCSystem>Breast</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7085-6</LP>
+        <snomedId>309061008</snomedId>
+        <name>Breast fine needle aspirate sample (specimen)</name>
+        <LOINCSystem>Breast.FNA</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP36499-9</LP>
+        <snomedId>309176002</snomedId>
+        <name>Bronchial brushings sample (specimen)</name>
+        <LOINCSystem>Bronchial brush</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7093-0</LP>
+        <snomedId>258564008</snomedId>
+        <name>Buccal smear sample (specimen)</name>
+        <LOINCSystem>Buccal smear</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7090-6</LP>
+        <snomedId>119367005</snomedId>
+        <name>Specimen from burn injury (specimen)</name>
+        <LOINCSystem>Burn</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP30806-1</LP>
+        <snomedId>258565009</snomedId>
+        <name>Chorionic villi sample (specimen)</name>
+        <LOINCSystem>CVS</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7136-7</LP>
+        <snomedId>119395005</snomedId>
+        <name>Specimen from uterine cervix (specimen)</name>
+        <LOINCSystem>Cervix</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7147-4</LP>
+        <snomedId>119308003</snomedId>
+        <name>Cannula specimen (specimen)</name>
+        <LOINCSystem>Cnl</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7148-2</LP>
+        <snomedId>119329007</snomedId>
+        <name>Colostrum specimen (specimen)</name>
+        <LOINCSystem>Col</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP29918-7</LP>
+        <snomedId>440473005</snomedId>
+        <name>Contact lens submitted as specimen (specimen)</name>
+        <LOINCSystem>Contact lens</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7155-7</LP>
+        <snomedId>119400006</snomedId>
+        <name>Specimen from cornea (specimen)</name>
+        <LOINCSystem>Crn</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7161-5</LP>
+        <snomedId>122577006</snomedId>
+        <name>Cervical mucus specimen (specimen)</name>
+        <LOINCSystem>Cvm</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7168-0</LP>
+        <snomedId>119338009</snomedId>
+        <name>Dentin specimen (specimen)</name>
+        <LOINCSystem>Dentin</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7181-3</LP>
+        <snomedId>119306004</snomedId>
+        <name>Drain device specimen (specimen)</name>
+        <LOINCSystem>Drain</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7186-2</LP>
+        <snomedId>122574004</snomedId>
+        <name>Duodenal fluid specimen (specimen)</name>
+        <LOINCSystem>Duod fld</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7193-8</LP>
+        <snomedId>119346005</snomedId>
+        <name>Egg yolk specimen (specimen)</name>
+        <LOINCSystem>Eggylk</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7202-7</LP>
+        <snomedId>119396006</snomedId>
+        <name>Specimen from endometrium (specimen)</name>
+        <LOINCSystem>Endomet</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP100809-5</LP>
+        <snomedId>440229008</snomedId>
+        <name>Specimen from environment (specimen)</name>
+        <LOINCSystem>Envir</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP36487-4</LP>
+        <snomedId>309210009</snomedId>
+        <name>Esophageal brushings sample (specimen)</name>
+        <LOINCSystem>Esophageal brush</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7217-5</LP>
+        <snomedId>258441009</snomedId>
+        <name>Exudate sample (specimen)</name>
+        <LOINCSystem>Exudate</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7239-9</LP>
+        <snomedId>119316007</snomedId>
+        <name>Non-biological fluid specimen (specimen)</name>
+        <LOINCSystem>Flu.nonbiological</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7244-9</LP>
+        <snomedId>119320006</snomedId>
+        <name>Food specimen (specimen)</name>
+        <LOINCSystem>Food</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7263-9</LP>
+        <snomedId>-2147483648</snomedId>
+        <name>Genital fluid specimen (specimen)</name>
+        <LOINCSystem>Genital fld</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7269-6</LP>
+        <snomedId>122579009</snomedId>
+        <name>Genital lochia specimen (specimen)</name>
+        <LOINCSystem>Genital loc</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7270-4</LP>
+        <snomedId>122576002</snomedId>
+        <name>Genital mucus specimen (specimen)</name>
+        <LOINCSystem>Genital muc</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7289-4</LP>
+        <snomedId>127462005</snomedId>
+        <name>Specimen from heart (specimen)</name>
+        <LOINCSystem>Heart</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP29298-4</LP>
+        <snomedId>128591008</snomedId>
+        <name>Structure of high right atrium (body structure)</name>
+        <LOINCSystem>Heart.atrium.right.high</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP183564-6</LP>
+        <snomedId>439961009</snomedId>
+        <name>Implant submitted as specimen (specimen)</name>
+        <LOINCSystem>Implanted device</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP29165-5</LP>
+        <snomedId>-2147483648</snomedId>
+        <name>Specimen from liver obtained by needle aspiration biopsy (specimen)</name>
+        <LOINCSystem>Liver.FNA</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7407-2</LP>
+        <snomedId>127458004</snomedId>
+        <name>Specimen from lung (specimen)</name>
+        <LOINCSystem>Lung</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7647-3</LP>
+        <snomedId>399492000</snomedId>
+        <name>Tissue specimen from lung (specimen)</name>
+        <LOINCSystem>Lung tiss</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP29172-1</LP>
+        <snomedId>-2147483648</snomedId>
+        <name>Specimen from lung obtained by needle biopsy (specimen)</name>
+        <LOINCSystem>Lung.FNA</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP30457-3</LP>
+        <snomedId>258589002</snomedId>
+        <name>Lymph node sample (specimen)</name>
+        <LOINCSystem>Lymph node</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP29160-6</LP>
+        <snomedId>432382007</snomedId>
+        <name>Specimen from lymph node obtained by fine needle aspiration biopsy (specimen)</name>
+        <LOINCSystem>Lymph node.FNA</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7431-2</LP>
+        <snomedId>119321005</snomedId>
+        <name>Milk specimen (specimen)</name>
+        <LOINCSystem>Milk</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7438-7</LP>
+        <snomedId>119327009</snomedId>
+        <name>Nail specimen (specimen)</name>
+        <LOINCSystem>Nail</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7442-9</LP>
+        <snomedId>309503002</snomedId>
+        <name>Breast nipple discharge sample (specimen)</name>
+        <LOINCSystem>Nipple discharge</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7448-6</LP>
+        <snomedId>309128003</snomedId>
+        <name>Eye fluid sample (specimen)</name>
+        <LOINCSystem>Ocular fld</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP30461-5</LP>
+        <snomedId>128155007</snomedId>
+        <name>Specimen from ovary (specimen)</name>
+        <LOINCSystem>Ovary</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP111378-8</LP>
+        <snomedId>258428005</snomedId>
+        <name>Products of conception tissue sample (specimen)</name>
+        <LOINCSystem>POC</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP30158-7</LP>
+        <snomedId>127469001</snomedId>
+        <name>Specimen from pancreas (specimen)</name>
+        <LOINCSystem>Pancreas</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP29166-3</LP>
+        <snomedId>431406009</snomedId>
+        <name>Specimen from pancreas obtained by fine needle aspiration biopsy (specimen)</name>
+        <LOINCSystem>Pancreas.FNA</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP29171-3</LP>
+        <snomedId>441695007</snomedId>
+        <name>Specimen from parotid gland obtained by fine needle aspiration biopsy (specimen)</name>
+        <LOINCSystem>Parotid.FNA</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP34092-4</LP>
+        <snomedId>119397002</snomedId>
+        <name>Specimen from penis (specimen)</name>
+        <LOINCSystem>Penis</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7466-8</LP>
+        <snomedId>122571007</snomedId>
+        <name>Pericardial fluid specimen (specimen)</name>
+        <LOINCSystem>Pericard fld</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7507-9</LP>
+        <snomedId>168139001</snomedId>
+        <name>Peritoneal fluid sample (specimen)</name>
+        <LOINCSystem>Periton fld</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP30178-5</LP>
+        <snomedId>430250001</snomedId>
+        <name>Specimen from peritoneum (specimen)</name>
+        <LOINCSystem>Peritoneum</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7478-3</LP>
+        <snomedId>119301009</snomedId>
+        <name>Plant specimen (specimen)</name>
+        <LOINCSystem>Plant</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP124831-1</LP>
+        <snomedId>127459007</snomedId>
+        <name>Specimen from pleura (specimen)</name>
+        <LOINCSystem>Pleura</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7501-2</LP>
+        <snomedId>119386002</snomedId>
+        <name>Specimen from prostate (specimen)</name>
+        <LOINCSystem>Prostate</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP29164-8</LP>
+        <snomedId>384819001</snomedId>
+        <name>Specimen from prostate obtained by needle biopsy (specimen)</name>
+        <LOINCSystem>Prostate.FNA</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP150065-3</LP>
+        <snomedId>258470000</snomedId>
+        <name>Prostatic fluid sample (specimen)</name>
+        <LOINCSystem>Prostatic fld</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP212267-1</LP>
+        <snomedId>309479002</snomedId>
+        <name>Artery sample (specimen)</name>
+        <LOINCSystem>Pulmonary artery.left</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP212268-9</LP>
+        <snomedId>309479002</snomedId>
+        <name>Artery sample (specimen)</name>
+        <LOINCSystem>Pulmonary artery.right</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7527-7</LP>
+        <snomedId>119323008</snomedId>
+        <name>Pus specimen (specimen)</name>
+        <LOINCSystem>Pus</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP30226-2</LP>
+        <snomedId>122582004</snomedId>
+        <name>Erythrocyte specimen from blood product (specimen)</name>
+        <LOINCSystem>RBC^BPU</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7554-1</LP>
+        <snomedId>229059009</snomedId>
+        <name>Report (record artifact)</name>
+        <LOINCSystem>Report</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP208442-6</LP>
+        <snomedId>258603007</snomedId>
+        <name>Respiratory sample (specimen)</name>
+        <LOINCSystem>Respiratory</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP201886-1</LP>
+        <snomedId>258606004</snomedId>
+        <name>Lower respiratory sample (specimen)</name>
+        <LOINCSystem>Respiratory.lower</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP208441-8</LP>
+        <snomedId>258604001</snomedId>
+        <name>Upper respiratory sample (specimen)</name>
+        <LOINCSystem>Respiratory.upper</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP29163-0</LP>
+        <snomedId>434406008</snomedId>
+        <name>Specimen from salivary gland obtained by fine needle aspiration biopsy (specimen)</name>
+        <LOINCSystem>Salivary gland.FNA</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP69949-3</LP>
+        <snomedId>119348006</snomedId>
+        <name>Seminal plasma specimen (specimen)</name>
+        <LOINCSystem>Semin plas</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP29168-9</LP>
+        <snomedId>309508006</snomedId>
+        <name>Soft tissue lesion fine needle aspirate sample (specimen)</name>
+        <LOINCSystem>Soft tissue.FNA</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7593-9</LP>
+        <snomedId>123038009</snomedId>
+        <name>Specimen (specimen)</name>
+        <LOINCSystem>Specimen</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP30311-2</LP>
+        <snomedId>433308004</snomedId>
+        <name>Specimen from spleen (specimen)</name>
+        <LOINCSystem>Spleen</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7603-6</LP>
+        <snomedId>258609006</snomedId>
+        <name>Sputum specimen obtained by aspiration from trachea (specimen)</name>
+        <LOINCSystem>Sptt</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7605-1</LP>
+        <snomedId>119379005</snomedId>
+        <name>Specimen from stomach (specimen)</name>
+        <LOINCSystem>Stomach</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP29167-1</LP>
+        <snomedId>441749007</snomedId>
+        <name>Specimen from submandibular gland obtained by fine needle aspiration biopsy (specimen)</name>
+        <LOINCSystem>Submandibular.FNA</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7661-4</LP>
+        <snomedId>122638001</snomedId>
+        <name>Tissue specimen from small intestine (specimen)</name>
+        <LOINCSystem>TSMI</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7622-6</LP>
+        <snomedId>122594008</snomedId>
+        <name>Tears specimen (specimen)</name>
+        <LOINCSystem>Tear</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP124832-9</LP>
+        <snomedId>128154006</snomedId>
+        <name>Specimen from testis (specimen)</name>
+        <LOINCSystem>Testis</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7636-6</LP>
+        <snomedId>399680007</snomedId>
+        <name>Specimen from thyroid (specimen)</name>
+        <LOINCSystem>Thyroid</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7637-4</LP>
+        <snomedId>309146009</snomedId>
+        <name>Thyroid fine needle aspirate sample (specimen)</name>
+        <LOINCSystem>Thyroid.FNA</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP61649-7</LP>
+        <snomedId>119376003</snomedId>
+        <name>Tissue specimen (specimen)</name>
+        <LOINCSystem>Tissue</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7649-9</LP>
+        <snomedId>119390000</snomedId>
+        <name>Specimen from trachea (specimen)</name>
+        <LOINCSystem>Trac</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7651-5</LP>
+        <snomedId>119390000</snomedId>
+        <name>Specimen from trachea (specimen)</name>
+        <LOINCSystem>Tracheal swab</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP65556-0</LP>
+        <snomedId>399411006</snomedId>
+        <name>Specimen from trophoblast (specimen)</name>
+        <LOINCSystem>Trophoblasts</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7684-6</LP>
+        <snomedId>450872001</snomedId>
+        <name>Specimen from urinary bladder (specimen)</name>
+        <LOINCSystem>Urinary bladder</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7699-4</LP>
+        <snomedId>127479004</snomedId>
+        <name>Specimen from uterus (specimen)</name>
+        <LOINCSystem>Uterus</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP175663-6</LP>
+        <snomedId>472942000</snomedId>
+        <name>Ventriculoperitoneal shunt submitted as specimen (specimen)</name>
+        <LOINCSystem>VP shunt</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7715-8</LP>
+        <snomedId>258438000</snomedId>
+        <name>Vitreous humor sample (specimen)</name>
+        <LOINCSystem>Vitr fld</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7717-4</LP>
+        <snomedId>122572000</snomedId>
+        <name>Vomitus specimen (specimen)</name>
+        <LOINCSystem>Vomitus</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7719-0</LP>
+        <snomedId>119318008</snomedId>
+        <name>Water specimen (specimen)</name>
+        <LOINCSystem>Water</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP7727-3</LP>
+        <snomedId>-2147483648</snomedId>
+        <name>Specimen from deep wound (specimen)</name>
+        <LOINCSystem>Wound.deep</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP189538-4</LP>
+        <snomedId>309051001</snomedId>
+        <name>Body fluid sample (specimen)</name>
+        <LOINCSystem>XXX.body fluid</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP189536-8</LP>
+        <snomedId>257261003</snomedId>
+        <name>Swab (specimen)</name>
+        <LOINCSystem>XXX.swab</LOINCSystem>
+    </concept>
+    <concept>
+        <LP>LP189537-6</LP>
+        <snomedId>119376003</snomedId>
+        <name>Tissue specimen (specimen)</name>
+        <LOINCSystem>XXX.tissue</LOINCSystem>
+    </concept>
+</map>
